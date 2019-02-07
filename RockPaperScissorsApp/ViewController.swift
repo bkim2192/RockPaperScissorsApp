@@ -13,7 +13,9 @@ class ViewController: UIViewController {
     @IBOutlet weak var computerChoice: UIImageView!
     @IBOutlet weak var rockImage: UIImageView!
     @IBOutlet weak var stackView: UIStackView!
+   
     @IBOutlet var pictures: [UIImageView]!
+    
     @IBOutlet weak var paperView: UIImageView!
     @IBOutlet weak var ScissorsView: UIImageView!
     @IBOutlet weak var label: UILabel!

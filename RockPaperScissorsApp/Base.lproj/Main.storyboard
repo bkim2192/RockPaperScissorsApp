@@ -139,8 +139,9 @@
                         <outlet property="rockImage" destination="rce-kZ-acw" id="xyT-jc-L7G"/>
                         <outlet property="stackView" destination="2Ta-jv-sUh" id="Hcx-VL-efn"/>
                         <outlet property="yourChoice" destination="a5b-UA-NQe" id="TIu-5c-nbm"/>
-                        <outletCollection property="pictures" destination="tex-uX-nqO" collectionClass="NSMutableArray" id="krC-20-cbG"/>
-                        <outletCollection property="pictures" destination="hL2-Kx-d7P" collectionClass="NSMutableArray" id="uxd-6V-MqC"/>
+                        <outletCollection property="pictures" destination="hL2-Kx-d7P" collectionClass="NSMutableArray" id="1Wb-Sq-vft"/>
+                        <outletCollection property="pictures" destination="c6C-Ui-Gb5" collectionClass="NSMutableArray" id="CuF-x5-ee0"/>
+                        <outletCollection property="pictures" destination="rce-kZ-acw" collectionClass="NSMutableArray" id="iyu-AY-YJc"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
